@@ -1,0 +1,44 @@
+Redis的基础数据类型:
+    1.String:二进制安全,可以包含任何数据
+    2.Hash:一个键值(key=>value)对集合
+    3.List:简单的字符串列表
+    4.Set:string类型的无序集合
+    5.Zset:每个元素都会关联一个double类型的分数,redis通过分数来为集合中的成员进行从小到大的排序
+
+Redis基础数据类型的操作:
+    0.常用的操作
+        rename key newkey 给键值重命名
+        exists key 判断键值是否存在
+    1.String:get,set,delete
+        get(key)
+        set(key,value)
+        delete(key)
+    2.Hash:hget,hmset,hdel
+
+    3.List:lpush,lindex
+        lpush(key,value) 在列表的左边加入一个元素
+        exists(key)
+        delete(*key)
+        llen(key)
+        lrange(key,start,end) 获取值的start到end的值
+
+    4.Set:sadd,smembers 无序的集合
+        #添加元素
+        db.sadd('myset1','6','5','0')
+        #删除元素
+        db.srem('myset1','2')
+        #判断集合中是否存在某个元素
+        print(db.sismember('myset1','5'))
+        #查看集合的个数
+        print(db.scard('myset1'))
+        #遍历集合
+        print(db.smembers('myset1'))
+        #随机移除一个元素
+        print(db.spop('myset1'))
+        #判读集合是否存在
+        print(db.exists('myset1'))
+        #删除集合
+        print(db.delete('myset1'))
+    5.Zset:zadd,zrange  有序的集合
+
+

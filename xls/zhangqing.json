@@ -1,0 +1,418 @@
+{"country": "Afghanistan", "child_labor": {"famale": [9.6, ""], "male": [11.0, ""], "total": [10.3, ""]}, "child_marriage": {"married_by_15": [15.0, ""], "married_by_18": [40.4, ""]}}
+{"country": "Albania", "child_labor": {"famale": [9.4, "  "], "male": [14.4, "  "], "total": [12.0, "  "]}, "child_marriage": {"married_by_15": [0.2, ""], "married_by_18": [9.6, ""]}}
+{"country": "Algeria", "child_labor": {"famale": [3.9, "y"], "male": [5.5, "y"], "total": [4.7, "y"]}, "child_marriage": {"married_by_15": [0.1, ""], "married_by_18": [1.8, ""]}}
+{"country": "Andorra", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013 ", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Angola", "child_labor": {"famale": [24.8, "x"], "male": [22.1, "x"], "total": [23.5, "x"]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Antigua and Barbuda", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Argentina", "child_labor": {"famale": [5.2, "y"], "male": [7.6, "y"], "total": [6.5, "y"]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Armenia", "child_labor": {"famale": [2.9, ""], "male": [4.7, ""], "total": [3.9, ""]}, "child_marriage": {"married_by_15": [0.0, ""], "married_by_18": [7.2, ""]}}
+{"country": "Australia", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Austria", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Azerbaijan", "child_labor": {"famale": [5.4, "y"], "male": [7.5, "y"], "total": [6.5, "y"]}, "child_marriage": {"married_by_15": [0.7, ""], "married_by_18": [12.2, ""]}}
+{"country": "Bahamas", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Bahrain", "child_labor": {"famale": [3.0, "x"], "male": [6.3, "x"], "total": [4.6, "x"]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Bangladesh", "child_labor": {"famale": [8.1, "  "], "male": [17.5, "  "], "total": [12.8, "  "]}, "child_marriage": {"married_by_15": [29.1, ""], "married_by_18": [64.9, ""]}}
+{"country": "Barbados", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Belarus", "child_labor": {"famale": [1.5, "  "], "male": [1.3, "  "], "total": [1.4, "  "]}, "child_marriage": {"married_by_15": [0.0, ""], "married_by_18": [3.2, ""]}}
+{"country": "Belgium", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Belize", "child_labor": {"famale": [5.0, "  "], "male": [6.7, "  "], "total": [5.8, "  "]}, "child_marriage": {"married_by_15": [3.4, ""], "married_by_18": [25.9, ""]}}
+{"country": "Benin", "child_labor": {"famale": [44.6, "  "], "male": [46.5, "  "], "total": [45.6, "  "]}, "child_marriage": {"married_by_15": [7.9, ""], "married_by_18": [34.4, ""]}}
+{"country": "Bhutan", "child_labor": {"famale": [3.1, ""], "male": [2.6, ""], "total": [2.9, ""]}, "child_marriage": {"married_by_15": [6.2, ""], "married_by_18": [25.8, ""]}}
+{"country": "Bolivia (Plurinational State of)", "child_labor": {"famale": [24.4, "y"], "male": [28.2, "y"], "total": [26.4, "y"]}, "child_marriage": {"married_by_15": [3.2, ""], "married_by_18": [21.7, ""]}}
+{"country": "Bosnia and Herzegovina", "child_labor": {"famale": [3.9, "  "], "male": [6.6, "  "], "total": [5.3, "  "]}, "child_marriage": {"married_by_15": [0.2, ""], "married_by_18": [3.5, ""]}}
+{"country": "Botswana", "child_labor": {"famale": [7.0, "y"], "male": [10.9, "y"], "total": [9.0, "y"]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Brazil", "child_labor": {"famale": [5.9, "y"], "male": [11.2, "y"], "total": [8.6, "y"]}, "child_marriage": {"married_by_15": [10.5, ""], "married_by_18": [35.6, ""]}}
+{"country": "Brunei Darussalam", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Bulgaria", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Burkina Faso", "child_labor": {"famale": [36.0, ""], "male": [42.3, ""], "total": [39.2, ""]}, "child_marriage": {"married_by_15": [10.2, ""], "married_by_18": [51.6, ""]}}
+{"country": "Burundi", "child_labor": {"famale": [27.1, "  "], "male": [25.5, "  "], "total": [26.3, "  "]}, "child_marriage": {"married_by_15": [2.5, ""], "married_by_18": [20.4, ""]}}
+{"country": "Cabo Verde", "child_labor": {"famale": [2.5, "x,y"], "male": [3.7, "x,y"], "total": [3.2, "x,y"]}, "child_marriage": {"married_by_15": [2.8, ""], "married_by_18": [18.0, ""]}}
+{"country": "Cambodia", "child_labor": {"famale": [35.9, "y"], "male": [36.4, "y"], "total": [36.1, "y"]}, "child_marriage": {"married_by_15": [2.1, ""], "married_by_18": [18.4, ""]}}
+{"country": "Cameroon", "child_labor": {"famale": [40.2, "  "], "male": [43.1, "  "], "total": [41.7, "  "]}, "child_marriage": {"married_by_15": [13.4, ""], "married_by_18": [38.4, ""]}}
+{"country": "Canada", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Central African Republic ", "child_labor": {"famale": [29.9, "  "], "male": [27.2, "  "], "total": [28.5, "  "]}, "child_marriage": {"married_by_15": [29.1, ""], "married_by_18": [67.9, ""]}}
+{"country": "Chad", "child_labor": {"famale": [27.8, "  "], "male": [24.5, "  "], "total": [26.1, "  "]}, "child_marriage": {"married_by_15": [29.0, ""], "married_by_18": [68.1, ""]}}
+{"country": "Chile", "child_labor": {"famale": [2.4, "x"], "male": [3.4, "x"], "total": [2.9, "x"]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "China", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Colombia", "child_labor": {"famale": [8.9, "y"], "male": [16.6, "y"], "total": [13.0, "y"]}, "child_marriage": {"married_by_15": [5.6, ""], "married_by_18": [23.0, ""]}}
+{"country": "Comoros", "child_labor": {"famale": [28.0, "x"], "male": [26.4, "x"], "total": [27.1, "x"]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Congo", "child_labor": {"famale": [25.1, "  "], "male": [24.2, "  "], "total": [24.7, "  "]}, "child_marriage": {"married_by_15": [6.7, ""], "married_by_18": [33.3, ""]}}
+{"country": "Cook Islands", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Costa Rica", "child_labor": {"famale": [3.4, "x"], "male": [6.0, "x"], "total": [4.7, "x"]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "C\u00f4te d'Ivoire", "child_labor": {"famale": [28.0, "  "], "male": [25.0, "  "], "total": [26.0, "  "]}, "child_marriage": {"married_by_15": [9.8, ""], "married_by_18": [33.2, ""]}}
+{"country": "Croatia", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Cuba", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": [8.9, ""], "married_by_18": [40.4, ""]}}
+{"country": "Cyprus", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Czech Republic", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Democratic People's Republic of Korea", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Democratic Republic of the Congo", "child_labor": {"famale": [16.8, "  "], "male": [13.1, "  "], "total": [15.0, "  "]}, "child_marriage": {"married_by_15": [9.3, ""], "married_by_18": [39.4, ""]}}
+{"country": "Denmark", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Djibouti", "child_labor": {"famale": [7.7, "  "], "male": [7.6, "  "], "total": [7.7, "  "]}, "child_marriage": {"married_by_15": [1.8, ""], "married_by_18": [5.4, ""]}}
+{"country": "Dominica", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Dominican Republic", "child_labor": {"famale": [7.9, "  "], "male": [17.5, "  "], "total": [12.9, "  "]}, "child_marriage": {"married_by_15": [11.7, ""], "married_by_18": [40.8, ""]}}
+{"country": "Ecuador", "child_labor": {"famale": [7.9, "  "], "male": [7.1, "  "], "total": [7.5, "  "]}, "child_marriage": {"married_by_15": [3.8, "x"], "married_by_18": [22.2, "x"]}}
+{"country": "Egypt", "child_labor": {"famale": [4.0, "y"], "male": [14.3, "y"], "total": [9.3, "y"]}, "child_marriage": {"married_by_15": [2.2, ""], "married_by_18": [16.6, ""]}}
+{"country": "El Salvador", "child_labor": {"famale": ["\u2013", ""], "male": ["\u2013", ""], "total": [10.4, "y"]}, "child_marriage": {"married_by_15": [5.0, ""], "married_by_18": [25.4, ""]}}
+{"country": "Equatorial Guinea", "child_labor": {"famale": [27.6, "x"], "male": [27.9, "x"], "total": [27.8, "x"]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Eritrea", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": [19.6, "x"], "married_by_18": [47.0, "x"]}}
+{"country": "Estonia", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Ethiopia", "child_labor": {"famale": [23.5, ""], "male": [31.1, ""], "total": [27.4, ""]}, "child_marriage": {"married_by_15": [16.3, ""], "married_by_18": [41.0, ""]}}
+{"country": "Fiji", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Finland", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "France", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Gabon", "child_labor": {"famale": [11.6, "  "], "male": [15.4, " "], "total": [13.4, " "]}, "child_marriage": {"married_by_15": [5.6, ""], "married_by_18": [21.9, ""]}}
+{"country": "Gambia", "child_labor": {"famale": [17.5, "  "], "male": [20.9, "  "], "total": [19.2, "  "]}, "child_marriage": {"married_by_15": [7.3, ""], "married_by_18": [36.4, ""]}}
+{"country": "Georgia", "child_labor": {"famale": [16.6, "  "], "male": [20.0, "  "], "total": [18.4, "  "]}, "child_marriage": {"married_by_15": [1.1, ""], "married_by_18": [14.0, ""]}}
+{"country": "Germany", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Ghana", "child_labor": {"famale": [34.0, "  "], "male": [33.8, "  "], "total": [33.9, "  "]}, "child_marriage": {"married_by_15": [5.0, ""], "married_by_18": [20.7, ""]}}
+{"country": "Greece", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Grenada", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Guatemala", "child_labor": {"famale": [16.1, "y"], "male": [35.1, "y"], "total": [25.8, "y"]}, "child_marriage": {"married_by_15": [7.1, ""], "married_by_18": [30.3, ""]}}
+{"country": "Guinea", "child_labor": {"famale": [40.1, "y"], "male": [40.0, "y"], "total": [40.1, "y"]}, "child_marriage": {"married_by_15": [19.8, ""], "married_by_18": [63.1, ""]}}
+{"country": "Guinea-Bissau", "child_labor": {"famale": [36.4, "  "], "male": [39.5, "  "], "total": [38.0, "  "]}, "child_marriage": {"married_by_15": [6.5, ""], "married_by_18": [22.0, ""]}}
+{"country": "Guyana", "child_labor": {"famale": [15.5, "  "], "male": [17.3, "  "], "total": [16.4, "  "]}, "child_marriage": {"married_by_15": [5.5, ""], "married_by_18": [23.0, ""]}}
+{"country": "Haiti", "child_labor": {"famale": [24.3, "  "], "male": [24.5, "  "], "total": [24.4, "  "]}, "child_marriage": {"married_by_15": [2.8, ""], "married_by_18": [17.5, ""]}}
+{"country": "Holy See", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Honduras", "child_labor": {"famale": [15.0, "x"], "male": [16.1, "x"], "total": [15.6, "x"]}, "child_marriage": {"married_by_15": [7.6, ""], "married_by_18": [33.6, ""]}}
+{"country": "Hungary", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Iceland", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "India", "child_labor": {"famale": [11.9, "  "], "male": [11.6, "  "], "total": [11.8, "  "]}, "child_marriage": {"married_by_15": [18.2, ""], "married_by_18": [47.4, ""]}}
+{"country": "Indonesia", "child_labor": {"famale": [5.8, "y"], "male": [7.9, "y"], "total": [6.9, "y"]}, "child_marriage": {"married_by_15": [3.0, ""], "married_by_18": [17.0, ""]}}
+{"country": "Iran (Islamic Republic of)", "child_labor": {"famale": [10.2, "y"], "male": [12.5, "y"], "total": [11.4, "y"]}, "child_marriage": {"married_by_15": [2.7, ""], "married_by_18": [16.7, ""]}}
+{"country": "Iraq", "child_labor": {"famale": [4.0, "  "], "male": [5.4, "  "], "total": [4.7, "  "]}, "child_marriage": {"married_by_15": [4.6, ""], "married_by_18": [24.3, ""]}}
+{"country": "Ireland", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Israel", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Italy", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Jamaica", "child_labor": {"famale": [5.4, "  "], "male": [6.8, "  "], "total": [6.1, "  "]}, "child_marriage": {"married_by_15": [0.6, ""], "married_by_18": [8.6, ""]}}
+{"country": "Japan", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Jordan", "child_labor": {"famale": [0.4, "y"], "male": [3.2, "y"], "total": [1.9, "y"]}, "child_marriage": {"married_by_15": [0.7, ""], "married_by_18": [10.2, ""]}}
+{"country": "Kazakhstan", "child_labor": {"famale": [2.1, "  "], "male": [2.4, "  "], "total": [2.2, "  "]}, "child_marriage": {"married_by_15": [0.3, ""], "married_by_18": [6.1, ""]}}
+{"country": "Kenya", "child_labor": {"famale": [25.2, "x"], "male": [26.5, "x"], "total": [25.9, "x"]}, "child_marriage": {"married_by_15": [6.2, ""], "married_by_18": [26.4, ""]}}
+{"country": "Kiribati", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": [2.8, ""], "married_by_18": [20.3, ""]}}
+{"country": "Kuwait", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Kyrgyzstan", "child_labor": {"famale": [2.9, "  "], "male": [4.3, "  "], "total": [3.6, "  "]}, "child_marriage": {"married_by_15": [0.5, ""], "married_by_18": [10.4, ""]}}
+{"country": "Lao People's Democratic Republic", "child_labor": {"famale": [11.2, "y"], "male": [9.0, "y"], "total": [10.1, "y"]}, "child_marriage": {"married_by_15": [8.9, ""], "married_by_18": [35.4, ""]}}
+{"country": "Latvia", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Lebanon", "child_labor": {"famale": [0.9, "  "], "male": [2.7, "  "], "total": [1.9, "  "]}, "child_marriage": {"married_by_15": [1.2, ""], "married_by_18": [6.1, ""]}}
+{"country": "Lesotho", "child_labor": {"famale": [20.7, "x"], "male": [25.0, "x"], "total": [22.9, "x"]}, "child_marriage": {"married_by_15": [2.3, ""], "married_by_18": [18.8, ""]}}
+{"country": "Liberia", "child_labor": {"famale": [20.5, "  "], "male": [21.1, "  "], "total": [20.8, "  "]}, "child_marriage": {"married_by_15": [10.8, ""], "married_by_18": [37.9, ""]}}
+{"country": "Libya", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Liechtenstein", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Lithuania", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Luxembourg", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Madagascar", "child_labor": {"famale": [26.7, "y"], "male": [29.4, "y"], "total": [28.1, "y"]}, "child_marriage": {"married_by_15": [14.4, ""], "married_by_18": [48.2, ""]}}
+{"country": "Malawi", "child_labor": {"famale": [26.2, "  "], "male": [25.3, "  "], "total": [25.7, "  "]}, "child_marriage": {"married_by_15": [11.7, ""], "married_by_18": [49.6, ""]}}
+{"country": "Malaysia", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Maldives", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": [0.3, ""], "married_by_18": [3.9, ""]}}
+{"country": "Mali", "child_labor": {"famale": [20.7, "  "], "male": [22.0, "  "], "total": [21.4, "  "]}, "child_marriage": {"married_by_15": [14.5, ""], "married_by_18": [55.0, ""]}}
+{"country": "Malta", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Marshall Islands", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": [5.6, ""], "married_by_18": [26.3, ""]}}
+{"country": "Mauritania", "child_labor": {"famale": [14.9, ""], "male": [14.3, ""], "total": [14.6, ""]}, "child_marriage": {"married_by_15": [14.2, ""], "married_by_18": [34.3, ""]}}
+{"country": "Mauritius", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Mexico", "child_labor": {"famale": [5.3, "y"], "male": [7.3, "y"], "total": [6.3, "y"]}, "child_marriage": {"married_by_15": [5.1, ""], "married_by_18": [22.9, ""]}}
+{"country": "Micronesia (Federated States of)", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Monaco", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Mongolia", "child_labor": {"famale": [10.6, "  "], "male": [10.3, "  "], "total": [10.4, "  "]}, "child_marriage": {"married_by_15": [0.1, ""], "married_by_18": [4.7, ""]}}
+{"country": "Montenegro", "child_labor": {"famale": [7.8, "  "], "male": [11.7, "  "], "total": [9.9, "  "]}, "child_marriage": {"married_by_15": [0.2, ""], "married_by_18": [4.8, ""]}}
+{"country": "Morocco", "child_labor": {"famale": [7.5, "  "], "male": [9.1, "  "], "total": [8.3, "  "]}, "child_marriage": {"married_by_15": [2.5, "x"], "married_by_18": [15.9, "x"]}}
+{"country": "Mozambique", "child_labor": {"famale": [23.8, "  "], "male": [20.5, "  "], "total": [22.2, "  "]}, "child_marriage": {"married_by_15": [14.3, ""], "married_by_18": [48.2, ""]}}
+{"country": "Myanmar", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Namibia", "child_labor": {"famale": ["\u2013", ""], "male": ["\u2013", ""], "total": ["\u2013", ""]}, "child_marriage": {"married_by_15": [2.4, ""], "married_by_18": [8.6, ""]}}
+{"country": "Nauru", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": [1.9, ""], "married_by_18": [26.8, ""]}}
+{"country": "Nepal", "child_labor": {"famale": [37.8, "y"], "male": [30.2, "y"], "total": [33.9, "y"]}, "child_marriage": {"married_by_15": [10.1, ""], "married_by_18": [40.7, ""]}}
+{"country": "Netherlands", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "New Zealand", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Nicaragua", "child_labor": {"famale": [11.2, "x"], "male": [17.6, "x"], "total": [14.5, "x"]}, "child_marriage": {"married_by_15": [10.4, ""], "married_by_18": [40.6, ""]}}
+{"country": "Niger", "child_labor": {"famale": [42.9, "  "], "male": [42.7, "  "], "total": [42.8, "  "]}, "child_marriage": {"married_by_15": [36.1, ""], "married_by_18": [74.5, ""]}}
+{"country": "Nigeria", "child_labor": {"famale": [25.3, "  "], "male": [24.1, " "], "total": [24.7, ""]}, "child_marriage": {"married_by_15": [19.6, ""], "married_by_18": [39.0, ""]}}
+{"country": "Niue", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Norway", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Oman", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Pakistan", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": [6.7, ""], "married_by_18": [24.0, ""]}}
+{"country": "Palau", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Panama", "child_labor": {"famale": [3.0, "y"], "male": [8.0, "y"], "total": [5.6, "y"]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Papua New Guinea", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": [2.1, ""], "married_by_18": [21.3, ""]}}
+{"country": "Paraguay", "child_labor": {"famale": [12.2, "x"], "male": [16.8, "x"], "total": [14.6, "x"]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": [17.9, "x"]}}
+{"country": "Peru", "child_labor": {"famale": [36.3, "y"], "male": [30.6, "y"], "total": [33.5, "y"]}, "child_marriage": {"married_by_15": [2.5, ""], "married_by_18": [19.1, ""]}}
+{"country": "Philippines", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", "  "], "total": ["\u2013", "  "]}, "child_marriage": {"married_by_15": [2.1, ""], "married_by_18": [14.2, ""]}}
+{"country": "Poland", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Portugal", "child_labor": {"famale": [2.5, "x,y"], "male": [4.2, "x,y"], "total": [3.4, "x,y"]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Qatar", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Republic of Korea", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Republic of Moldova", "child_labor": {"famale": [12.3, "  "], "male": [20.2, "  "], "total": [16.3, "  "]}, "child_marriage": {"married_by_15": [0.5, ""], "married_by_18": [18.9, ""]}}
+{"country": "Romania", "child_labor": {"famale": [0.7, "x"], "male": [1.2, "x"], "total": [0.9, "x"]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Russian Federation", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Rwanda", "child_labor": {"famale": [30.4, "  "], "male": [26.7, "  "], "total": [28.5, "  "]}, "child_marriage": {"married_by_15": [0.8, ""], "married_by_18": [8.1, ""]}}
+{"country": "Saint Kitts and Nevis", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Saint Lucia", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Saint Vincent and the Grenadines", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Samoa", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "San Marino", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Sao Tome and Principe", "child_labor": {"famale": [7.2, "  "], "male": [7.7, "  "], "total": [7.5, "  "]}, "child_marriage": {"married_by_15": [5.0, ""], "married_by_18": [34.4, ""]}}
+{"country": "Saudi Arabia", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Senegal", "child_labor": {"famale": [15.6, ""], "male": [17.5, ""], "total": [16.5, ""]}, "child_marriage": {"married_by_15": [12.0, ""], "married_by_18": [32.9, ""]}}
+{"country": "Serbia", "child_labor": {"famale": [4.4, "  "], "male": [4.5, "  "], "total": [4.4, "  "]}, "child_marriage": {"married_by_15": [0.9, ""], "married_by_18": [5.0, ""]}}
+{"country": "Seychelles", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Sierra Leone", "child_labor": {"famale": [25.0, "  "], "male": [27.0, "  "], "total": [26.0, "  "]}, "child_marriage": {"married_by_15": [17.7, ""], "married_by_18": [43.7, ""]}}
+{"country": "Singapore", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Slovakia", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Slovenia", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Solomon Islands", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": [3.1, ""], "married_by_18": [22.4, ""]}}
+{"country": "Somalia", "child_labor": {"famale": [53.6, "  "], "male": [44.5, "  "], "total": [49.0, "  "]}, "child_marriage": {"married_by_15": [8.4, ""], "married_by_18": [45.3, ""]}}
+{"country": "South Africa", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": [0.8, "x"], "married_by_18": [5.6, "x"]}}
+{"country": "South Sudan", "child_labor": {"famale": ["\u2013", ""], "male": ["\u2013", ""], "total": ["\u2013", ""]}, "child_marriage": {"married_by_15": [8.9, ""], "married_by_18": [51.5, ""]}}
+{"country": "Spain", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Sri Lanka", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", "  "], "total": ["\u2013", "  "]}, "child_marriage": {"married_by_15": [1.7, ""], "married_by_18": [11.8, ""]}}
+{"country": "State of Palestine", "child_labor": {"famale": [4.0, "  "], "male": [7.4, " "], "total": [5.7, " "]}, "child_marriage": {"married_by_15": [2.2, ""], "married_by_18": [20.6, ""]}}
+{"country": "Sudan", "child_labor": {"famale": ["\u2013", ""], "male": ["\u2013", ""], "total": ["\u2013", ""]}, "child_marriage": {"married_by_15": [7.2, ""], "married_by_18": [32.9, ""]}}
+{"country": "Suriname", "child_labor": {"famale": [4.1, "  "], "male": [4.1, "  "], "total": [4.1, "  "]}, "child_marriage": {"married_by_15": [5.2, ""], "married_by_18": [18.8, ""]}}
+{"country": "Swaziland", "child_labor": {"famale": [6.9, "  "], "male": [7.7, "  "], "total": [7.3, "  "]}, "child_marriage": {"married_by_15": [0.7, ""], "married_by_18": [6.5, ""]}}
+{"country": "Sweden", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Switzerland", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Syrian Arab Republic", "child_labor": {"famale": [3.0, "  "], "male": [5.0, "  "], "total": [4.0, "  "]}, "child_marriage": {"married_by_15": [2.5, ""], "married_by_18": [13.3, ""]}}
+{"country": "Tajikistan", "child_labor": {"famale": [10.6, "  "], "male": [9.4, "  "], "total": [10.0, "  "]}, "child_marriage": {"married_by_15": [1.0, ""], "married_by_18": [12.7, ""]}}
+{"country": "Thailand", "child_labor": {"famale": [8.2, "  "], "male": [8.3, "  "], "total": [8.3, "  "]}, "child_marriage": {"married_by_15": [2.8, ""], "married_by_18": [19.6, ""]}}
+{"country": "The former Yugoslav Republic of Macedonia", "child_labor": {"famale": [13.0, "  "], "male": [12.1, "  "], "total": [12.5, "  "]}, "child_marriage": {"married_by_15": [0.9, ""], "married_by_18": [6.9, ""]}}
+{"country": "Timor-Leste", "child_labor": {"famale": [4.4, "x"], "male": [4.1, "x"], "total": [4.2, "x"]}, "child_marriage": {"married_by_15": [3.0, ""], "married_by_18": [18.9, ""]}}
+{"country": "Togo", "child_labor": {"famale": [28.9, "  "], "male": [27.7, "  "], "total": [28.3, "  "]}, "child_marriage": {"married_by_15": [5.8, ""], "married_by_18": [25.2, ""]}}
+{"country": "Tonga", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Trinidad and Tobago", "child_labor": {"famale": [0.6, "  "], "male": [0.7, "  "], "total": [0.7, "  "]}, "child_marriage": {"married_by_15": [1.8, ""], "married_by_18": [8.1, ""]}}
+{"country": "Tunisia", "child_labor": {"famale": [1.6, "  "], "male": [2.6, " "], "total": [2.1, " "]}, "child_marriage": {"married_by_15": [0.0, ""], "married_by_18": [1.6, ""]}}
+{"country": "Turkey", "child_labor": {"famale": [1.8, "y"], "male": [3.3, "y"], "total": [2.6, "y"]}, "child_marriage": {"married_by_15": [2.5, ""], "married_by_18": [14.0, ""]}}
+{"country": "Turkmenistan", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": [0.6, ""], "married_by_18": [7.3, ""]}}
+{"country": "Tuvalu", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": [0.0, ""], "married_by_18": [9.9, ""]}}
+{"country": "Uganda", "child_labor": {"famale": [23.7, "y"], "male": [26.9, "y"], "total": [25.4, "y"]}, "child_marriage": {"married_by_15": [9.9, ""], "married_by_18": [39.7, ""]}}
+{"country": "Ukraine", "child_labor": {"famale": [6.7, "  "], "male": [7.9, "  "], "total": [7.3, "  "]}, "child_marriage": {"married_by_15": [0.2, ""], "married_by_18": [9.9, ""]}}
+{"country": "United Arab Emirates", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "United Kingdom", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "United Republic of Tanzania", "child_labor": {"famale": [18.8, "y"], "male": [23.3, "y"], "total": [21.1, "y"]}, "child_marriage": {"married_by_15": [6.6, ""], "married_by_18": [36.9, ""]}}
+{"country": "United States", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Uruguay", "child_labor": {"famale": [7.5, "y"], "male": [8.3, "y"], "total": [7.9, "y"]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Uzbekistan", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": [0.3, ""], "married_by_18": [7.2, ""]}}
+{"country": "Vanuatu", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": [8.8, ""], "married_by_18": [27.1, ""]}}
+{"country": "Venezuela (Bolivarian Republic of)", "child_labor": {"famale": [6.2, "x"], "male": [9.2, "x"], "total": [7.7, "x"]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Viet Nam", "child_labor": {"famale": [7.4, "  "], "male": [6.5, "  "], "total": [6.9, "  "]}, "child_marriage": {"married_by_15": [0.5, ""], "married_by_18": [9.3, ""]}}
+{"country": "Yemen", "child_labor": {"famale": [24.4, "  "], "male": [21.1, "  "], "total": [22.7, "  "]}, "child_marriage": {"married_by_15": [12.0, ""], "married_by_18": [32.3, ""]}}
+{"country": "Zambia", "child_labor": {"famale": [39.5, "y"], "male": [41.6, "y"], "total": [40.6, "y"]}, "child_marriage": {"married_by_15": [8.5, ""], "married_by_18": [41.6, ""]}}
+{"country": "Zimbabwe", "child_labor": {"famale": ["\u2013", ""], "male": ["\u2013", ""], "total": ["\u2013", ""]}, "child_marriage": {"married_by_15": [3.9, ""], "married_by_18": [30.5, ""]}}
+{"country": "", "child_labor": {"famale": ["", ""], "male": ["", ""], "total": ["", ""]}, "child_marriage": {"married_by_15": ["", ""], "married_by_18": ["", ""]}}
+{"country": "SUMMARY INDICATORS#", "child_labor": {"famale": ["", ""], "male": ["", ""], "total": ["", ""]}, "child_marriage": {"married_by_15": ["", ""], "married_by_18": ["", ""]}}
+{"country": "Sub-Saharan Africa", "child_labor": {"famale": [26.36826159965199, ""], "male": [27.302792951464937, ""], "total": [26.873245900946774, ""]}, "child_marriage": {"married_by_15": [12.766809100623894, ""], "married_by_18": [39.05232099933939, ""]}}
+{"country": "Eastern and Southern Africa", "child_labor": {"famale": [25.32176803858022, ""], "male": [28.358445002499177, ""], "total": [26.898832301009328, ""]}, "child_marriage": {"married_by_15": [10.209229606936761, ""], "married_by_18": [37.58036225115503, ""]}}
+{"country": "West and Central Africa", "child_labor": {"famale": [27.134745409808893, ""], "male": [26.0, ""], "total": [26.0, ""]}, "child_marriage": {"married_by_15": [15.506681004273318, ""], "married_by_18": [40.952411858475095, ""]}}
+{"country": "Middle East and North Africa", "child_labor": {"famale": [7.16708401469709, ""], "male": [10.60497690621085, ""], "total": [8.92672739108793, ""]}, "child_marriage": {"married_by_15": [3.33677878815716, ""], "married_by_18": [17.5162671993684, ""]}}
+{"country": "South Asia", "child_labor": {"famale": [12.006654356230534, ""], "male": [12.635230707275712, ""], "total": [12.375373484359333, ""]}, "child_marriage": {"married_by_15": [17.525606188244307, ""], "married_by_18": [45.70410275811975, ""]}}
+{"country": "East Asia and Pacific", "child_labor": {"famale": [7.728849695560034, "**"], "male": [8.847765255453274, "**"], "total": [8.309487331922833, "**"]}, "child_marriage": {"married_by_15": [2.0, "**"], "married_by_18": [16.0, "**"]}}
+{"country": "Latin America and Caribbean", "child_labor": {"famale": [9.249237252383654, ""], "male": [13.328239839121807, ""], "total": [11.339877745215752, ""]}, "child_marriage": {"married_by_15": [7.384282048923693, ""], "married_by_18": [28.87038271198426, ""]}}
+{"country": "CEE/CIS", "child_labor": {"famale": [3.958733466194118, ""], "male": [5.349219072242559, ""], "total": [4.688698830691471, ""]}, "child_marriage": {"married_by_15": [1.0493101359463624, ""], "married_by_18": [10.314530477051314, ""]}}
+{"country": "Least developed countries", "child_labor": {"famale": [22.239876936625272, ""], "male": [24.669001584533973, ""], "total": [23.488248150296613, ""]}, "child_marriage": {"married_by_15": [15.228843776347825, ""], "married_by_18": [45.31198576583569, ""]}}
+{"country": "World", "child_labor": {"famale": [14.187934151307143, "**"], "male": [15.675305370157282, "**"], "total": [14.97556129305665, "**"]}, "child_marriage": {"married_by_15": [11.396381672145917, "**"], "married_by_18": [34.40559250186234, "**"]}}
+{"country": "Afghanistan", "child_labor": {"famale": [9.6, ""], "male": [11.0, ""], "total": [10.3, ""]}, "child_marriage": {"married_by_15": [15.0, ""], "married_by_18": [40.4, ""]}}
+{"country": "Albania", "child_labor": {"famale": [9.4, "  "], "male": [14.4, "  "], "total": [12.0, "  "]}, "child_marriage": {"married_by_15": [0.2, ""], "married_by_18": [9.6, ""]}}
+{"country": "Algeria", "child_labor": {"famale": [3.9, "y"], "male": [5.5, "y"], "total": [4.7, "y"]}, "child_marriage": {"married_by_15": [0.1, ""], "married_by_18": [1.8, ""]}}
+{"country": "Andorra", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013 ", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Angola", "child_labor": {"famale": [24.8, "x"], "male": [22.1, "x"], "total": [23.5, "x"]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Antigua and Barbuda", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Argentina", "child_labor": {"famale": [5.2, "y"], "male": [7.6, "y"], "total": [6.5, "y"]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Armenia", "child_labor": {"famale": [2.9, ""], "male": [4.7, ""], "total": [3.9, ""]}, "child_marriage": {"married_by_15": [0.0, ""], "married_by_18": [7.2, ""]}}
+{"country": "Australia", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Austria", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Azerbaijan", "child_labor": {"famale": [5.4, "y"], "male": [7.5, "y"], "total": [6.5, "y"]}, "child_marriage": {"married_by_15": [0.7, ""], "married_by_18": [12.2, ""]}}
+{"country": "Bahamas", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Bahrain", "child_labor": {"famale": [3.0, "x"], "male": [6.3, "x"], "total": [4.6, "x"]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Bangladesh", "child_labor": {"famale": [8.1, "  "], "male": [17.5, "  "], "total": [12.8, "  "]}, "child_marriage": {"married_by_15": [29.1, ""], "married_by_18": [64.9, ""]}}
+{"country": "Barbados", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Belarus", "child_labor": {"famale": [1.5, "  "], "male": [1.3, "  "], "total": [1.4, "  "]}, "child_marriage": {"married_by_15": [0.0, ""], "married_by_18": [3.2, ""]}}
+{"country": "Belgium", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Belize", "child_labor": {"famale": [5.0, "  "], "male": [6.7, "  "], "total": [5.8, "  "]}, "child_marriage": {"married_by_15": [3.4, ""], "married_by_18": [25.9, ""]}}
+{"country": "Benin", "child_labor": {"famale": [44.6, "  "], "male": [46.5, "  "], "total": [45.6, "  "]}, "child_marriage": {"married_by_15": [7.9, ""], "married_by_18": [34.4, ""]}}
+{"country": "Bhutan", "child_labor": {"famale": [3.1, ""], "male": [2.6, ""], "total": [2.9, ""]}, "child_marriage": {"married_by_15": [6.2, ""], "married_by_18": [25.8, ""]}}
+{"country": "Bolivia (Plurinational State of)", "child_labor": {"famale": [24.4, "y"], "male": [28.2, "y"], "total": [26.4, "y"]}, "child_marriage": {"married_by_15": [3.2, ""], "married_by_18": [21.7, ""]}}
+{"country": "Bosnia and Herzegovina", "child_labor": {"famale": [3.9, "  "], "male": [6.6, "  "], "total": [5.3, "  "]}, "child_marriage": {"married_by_15": [0.2, ""], "married_by_18": [3.5, ""]}}
+{"country": "Botswana", "child_labor": {"famale": [7.0, "y"], "male": [10.9, "y"], "total": [9.0, "y"]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Brazil", "child_labor": {"famale": [5.9, "y"], "male": [11.2, "y"], "total": [8.6, "y"]}, "child_marriage": {"married_by_15": [10.5, ""], "married_by_18": [35.6, ""]}}
+{"country": "Brunei Darussalam", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Bulgaria", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Burkina Faso", "child_labor": {"famale": [36.0, ""], "male": [42.3, ""], "total": [39.2, ""]}, "child_marriage": {"married_by_15": [10.2, ""], "married_by_18": [51.6, ""]}}
+{"country": "Burundi", "child_labor": {"famale": [27.1, "  "], "male": [25.5, "  "], "total": [26.3, "  "]}, "child_marriage": {"married_by_15": [2.5, ""], "married_by_18": [20.4, ""]}}
+{"country": "Cabo Verde", "child_labor": {"famale": [2.5, "x,y"], "male": [3.7, "x,y"], "total": [3.2, "x,y"]}, "child_marriage": {"married_by_15": [2.8, ""], "married_by_18": [18.0, ""]}}
+{"country": "Cambodia", "child_labor": {"famale": [35.9, "y"], "male": [36.4, "y"], "total": [36.1, "y"]}, "child_marriage": {"married_by_15": [2.1, ""], "married_by_18": [18.4, ""]}}
+{"country": "Cameroon", "child_labor": {"famale": [40.2, "  "], "male": [43.1, "  "], "total": [41.7, "  "]}, "child_marriage": {"married_by_15": [13.4, ""], "married_by_18": [38.4, ""]}}
+{"country": "Canada", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Central African Republic ", "child_labor": {"famale": [29.9, "  "], "male": [27.2, "  "], "total": [28.5, "  "]}, "child_marriage": {"married_by_15": [29.1, ""], "married_by_18": [67.9, ""]}}
+{"country": "Chad", "child_labor": {"famale": [27.8, "  "], "male": [24.5, "  "], "total": [26.1, "  "]}, "child_marriage": {"married_by_15": [29.0, ""], "married_by_18": [68.1, ""]}}
+{"country": "Chile", "child_labor": {"famale": [2.4, "x"], "male": [3.4, "x"], "total": [2.9, "x"]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "China", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Colombia", "child_labor": {"famale": [8.9, "y"], "male": [16.6, "y"], "total": [13.0, "y"]}, "child_marriage": {"married_by_15": [5.6, ""], "married_by_18": [23.0, ""]}}
+{"country": "Comoros", "child_labor": {"famale": [28.0, "x"], "male": [26.4, "x"], "total": [27.1, "x"]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Congo", "child_labor": {"famale": [25.1, "  "], "male": [24.2, "  "], "total": [24.7, "  "]}, "child_marriage": {"married_by_15": [6.7, ""], "married_by_18": [33.3, ""]}}
+{"country": "Cook Islands", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Costa Rica", "child_labor": {"famale": [3.4, "x"], "male": [6.0, "x"], "total": [4.7, "x"]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "C\u00f4te d'Ivoire", "child_labor": {"famale": [28.0, "  "], "male": [25.0, "  "], "total": [26.0, "  "]}, "child_marriage": {"married_by_15": [9.8, ""], "married_by_18": [33.2, ""]}}
+{"country": "Croatia", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Cuba", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": [8.9, ""], "married_by_18": [40.4, ""]}}
+{"country": "Cyprus", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Czech Republic", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Democratic People's Republic of Korea", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Democratic Republic of the Congo", "child_labor": {"famale": [16.8, "  "], "male": [13.1, "  "], "total": [15.0, "  "]}, "child_marriage": {"married_by_15": [9.3, ""], "married_by_18": [39.4, ""]}}
+{"country": "Denmark", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Djibouti", "child_labor": {"famale": [7.7, "  "], "male": [7.6, "  "], "total": [7.7, "  "]}, "child_marriage": {"married_by_15": [1.8, ""], "married_by_18": [5.4, ""]}}
+{"country": "Dominica", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Dominican Republic", "child_labor": {"famale": [7.9, "  "], "male": [17.5, "  "], "total": [12.9, "  "]}, "child_marriage": {"married_by_15": [11.7, ""], "married_by_18": [40.8, ""]}}
+{"country": "Ecuador", "child_labor": {"famale": [7.9, "  "], "male": [7.1, "  "], "total": [7.5, "  "]}, "child_marriage": {"married_by_15": [3.8, "x"], "married_by_18": [22.2, "x"]}}
+{"country": "Egypt", "child_labor": {"famale": [4.0, "y"], "male": [14.3, "y"], "total": [9.3, "y"]}, "child_marriage": {"married_by_15": [2.2, ""], "married_by_18": [16.6, ""]}}
+{"country": "El Salvador", "child_labor": {"famale": ["\u2013", ""], "male": ["\u2013", ""], "total": [10.4, "y"]}, "child_marriage": {"married_by_15": [5.0, ""], "married_by_18": [25.4, ""]}}
+{"country": "Equatorial Guinea", "child_labor": {"famale": [27.6, "x"], "male": [27.9, "x"], "total": [27.8, "x"]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Eritrea", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": [19.6, "x"], "married_by_18": [47.0, "x"]}}
+{"country": "Estonia", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Ethiopia", "child_labor": {"famale": [23.5, ""], "male": [31.1, ""], "total": [27.4, ""]}, "child_marriage": {"married_by_15": [16.3, ""], "married_by_18": [41.0, ""]}}
+{"country": "Fiji", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Finland", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "France", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Gabon", "child_labor": {"famale": [11.6, "  "], "male": [15.4, " "], "total": [13.4, " "]}, "child_marriage": {"married_by_15": [5.6, ""], "married_by_18": [21.9, ""]}}
+{"country": "Gambia", "child_labor": {"famale": [17.5, "  "], "male": [20.9, "  "], "total": [19.2, "  "]}, "child_marriage": {"married_by_15": [7.3, ""], "married_by_18": [36.4, ""]}}
+{"country": "Georgia", "child_labor": {"famale": [16.6, "  "], "male": [20.0, "  "], "total": [18.4, "  "]}, "child_marriage": {"married_by_15": [1.1, ""], "married_by_18": [14.0, ""]}}
+{"country": "Germany", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Ghana", "child_labor": {"famale": [34.0, "  "], "male": [33.8, "  "], "total": [33.9, "  "]}, "child_marriage": {"married_by_15": [5.0, ""], "married_by_18": [20.7, ""]}}
+{"country": "Greece", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Grenada", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Guatemala", "child_labor": {"famale": [16.1, "y"], "male": [35.1, "y"], "total": [25.8, "y"]}, "child_marriage": {"married_by_15": [7.1, ""], "married_by_18": [30.3, ""]}}
+{"country": "Guinea", "child_labor": {"famale": [40.1, "y"], "male": [40.0, "y"], "total": [40.1, "y"]}, "child_marriage": {"married_by_15": [19.8, ""], "married_by_18": [63.1, ""]}}
+{"country": "Guinea-Bissau", "child_labor": {"famale": [36.4, "  "], "male": [39.5, "  "], "total": [38.0, "  "]}, "child_marriage": {"married_by_15": [6.5, ""], "married_by_18": [22.0, ""]}}
+{"country": "Guyana", "child_labor": {"famale": [15.5, "  "], "male": [17.3, "  "], "total": [16.4, "  "]}, "child_marriage": {"married_by_15": [5.5, ""], "married_by_18": [23.0, ""]}}
+{"country": "Haiti", "child_labor": {"famale": [24.3, "  "], "male": [24.5, "  "], "total": [24.4, "  "]}, "child_marriage": {"married_by_15": [2.8, ""], "married_by_18": [17.5, ""]}}
+{"country": "Holy See", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Honduras", "child_labor": {"famale": [15.0, "x"], "male": [16.1, "x"], "total": [15.6, "x"]}, "child_marriage": {"married_by_15": [7.6, ""], "married_by_18": [33.6, ""]}}
+{"country": "Hungary", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Iceland", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "India", "child_labor": {"famale": [11.9, "  "], "male": [11.6, "  "], "total": [11.8, "  "]}, "child_marriage": {"married_by_15": [18.2, ""], "married_by_18": [47.4, ""]}}
+{"country": "Indonesia", "child_labor": {"famale": [5.8, "y"], "male": [7.9, "y"], "total": [6.9, "y"]}, "child_marriage": {"married_by_15": [3.0, ""], "married_by_18": [17.0, ""]}}
+{"country": "Iran (Islamic Republic of)", "child_labor": {"famale": [10.2, "y"], "male": [12.5, "y"], "total": [11.4, "y"]}, "child_marriage": {"married_by_15": [2.7, ""], "married_by_18": [16.7, ""]}}
+{"country": "Iraq", "child_labor": {"famale": [4.0, "  "], "male": [5.4, "  "], "total": [4.7, "  "]}, "child_marriage": {"married_by_15": [4.6, ""], "married_by_18": [24.3, ""]}}
+{"country": "Ireland", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Israel", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Italy", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Jamaica", "child_labor": {"famale": [5.4, "  "], "male": [6.8, "  "], "total": [6.1, "  "]}, "child_marriage": {"married_by_15": [0.6, ""], "married_by_18": [8.6, ""]}}
+{"country": "Japan", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Jordan", "child_labor": {"famale": [0.4, "y"], "male": [3.2, "y"], "total": [1.9, "y"]}, "child_marriage": {"married_by_15": [0.7, ""], "married_by_18": [10.2, ""]}}
+{"country": "Kazakhstan", "child_labor": {"famale": [2.1, "  "], "male": [2.4, "  "], "total": [2.2, "  "]}, "child_marriage": {"married_by_15": [0.3, ""], "married_by_18": [6.1, ""]}}
+{"country": "Kenya", "child_labor": {"famale": [25.2, "x"], "male": [26.5, "x"], "total": [25.9, "x"]}, "child_marriage": {"married_by_15": [6.2, ""], "married_by_18": [26.4, ""]}}
+{"country": "Kiribati", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": [2.8, ""], "married_by_18": [20.3, ""]}}
+{"country": "Kuwait", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Kyrgyzstan", "child_labor": {"famale": [2.9, "  "], "male": [4.3, "  "], "total": [3.6, "  "]}, "child_marriage": {"married_by_15": [0.5, ""], "married_by_18": [10.4, ""]}}
+{"country": "Lao People's Democratic Republic", "child_labor": {"famale": [11.2, "y"], "male": [9.0, "y"], "total": [10.1, "y"]}, "child_marriage": {"married_by_15": [8.9, ""], "married_by_18": [35.4, ""]}}
+{"country": "Latvia", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Lebanon", "child_labor": {"famale": [0.9, "  "], "male": [2.7, "  "], "total": [1.9, "  "]}, "child_marriage": {"married_by_15": [1.2, ""], "married_by_18": [6.1, ""]}}
+{"country": "Lesotho", "child_labor": {"famale": [20.7, "x"], "male": [25.0, "x"], "total": [22.9, "x"]}, "child_marriage": {"married_by_15": [2.3, ""], "married_by_18": [18.8, ""]}}
+{"country": "Liberia", "child_labor": {"famale": [20.5, "  "], "male": [21.1, "  "], "total": [20.8, "  "]}, "child_marriage": {"married_by_15": [10.8, ""], "married_by_18": [37.9, ""]}}
+{"country": "Libya", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Liechtenstein", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Lithuania", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Luxembourg", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Madagascar", "child_labor": {"famale": [26.7, "y"], "male": [29.4, "y"], "total": [28.1, "y"]}, "child_marriage": {"married_by_15": [14.4, ""], "married_by_18": [48.2, ""]}}
+{"country": "Malawi", "child_labor": {"famale": [26.2, "  "], "male": [25.3, "  "], "total": [25.7, "  "]}, "child_marriage": {"married_by_15": [11.7, ""], "married_by_18": [49.6, ""]}}
+{"country": "Malaysia", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Maldives", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": [0.3, ""], "married_by_18": [3.9, ""]}}
+{"country": "Mali", "child_labor": {"famale": [20.7, "  "], "male": [22.0, "  "], "total": [21.4, "  "]}, "child_marriage": {"married_by_15": [14.5, ""], "married_by_18": [55.0, ""]}}
+{"country": "Malta", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Marshall Islands", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": [5.6, ""], "married_by_18": [26.3, ""]}}
+{"country": "Mauritania", "child_labor": {"famale": [14.9, ""], "male": [14.3, ""], "total": [14.6, ""]}, "child_marriage": {"married_by_15": [14.2, ""], "married_by_18": [34.3, ""]}}
+{"country": "Mauritius", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Mexico", "child_labor": {"famale": [5.3, "y"], "male": [7.3, "y"], "total": [6.3, "y"]}, "child_marriage": {"married_by_15": [5.1, ""], "married_by_18": [22.9, ""]}}
+{"country": "Micronesia (Federated States of)", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Monaco", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Mongolia", "child_labor": {"famale": [10.6, "  "], "male": [10.3, "  "], "total": [10.4, "  "]}, "child_marriage": {"married_by_15": [0.1, ""], "married_by_18": [4.7, ""]}}
+{"country": "Montenegro", "child_labor": {"famale": [7.8, "  "], "male": [11.7, "  "], "total": [9.9, "  "]}, "child_marriage": {"married_by_15": [0.2, ""], "married_by_18": [4.8, ""]}}
+{"country": "Morocco", "child_labor": {"famale": [7.5, "  "], "male": [9.1, "  "], "total": [8.3, "  "]}, "child_marriage": {"married_by_15": [2.5, "x"], "married_by_18": [15.9, "x"]}}
+{"country": "Mozambique", "child_labor": {"famale": [23.8, "  "], "male": [20.5, "  "], "total": [22.2, "  "]}, "child_marriage": {"married_by_15": [14.3, ""], "married_by_18": [48.2, ""]}}
+{"country": "Myanmar", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Namibia", "child_labor": {"famale": ["\u2013", ""], "male": ["\u2013", ""], "total": ["\u2013", ""]}, "child_marriage": {"married_by_15": [2.4, ""], "married_by_18": [8.6, ""]}}
+{"country": "Nauru", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": [1.9, ""], "married_by_18": [26.8, ""]}}
+{"country": "Nepal", "child_labor": {"famale": [37.8, "y"], "male": [30.2, "y"], "total": [33.9, "y"]}, "child_marriage": {"married_by_15": [10.1, ""], "married_by_18": [40.7, ""]}}
+{"country": "Netherlands", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "New Zealand", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Nicaragua", "child_labor": {"famale": [11.2, "x"], "male": [17.6, "x"], "total": [14.5, "x"]}, "child_marriage": {"married_by_15": [10.4, ""], "married_by_18": [40.6, ""]}}
+{"country": "Niger", "child_labor": {"famale": [42.9, "  "], "male": [42.7, "  "], "total": [42.8, "  "]}, "child_marriage": {"married_by_15": [36.1, ""], "married_by_18": [74.5, ""]}}
+{"country": "Nigeria", "child_labor": {"famale": [25.3, "  "], "male": [24.1, " "], "total": [24.7, ""]}, "child_marriage": {"married_by_15": [19.6, ""], "married_by_18": [39.0, ""]}}
+{"country": "Niue", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Norway", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Oman", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Pakistan", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": [6.7, ""], "married_by_18": [24.0, ""]}}
+{"country": "Palau", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Panama", "child_labor": {"famale": [3.0, "y"], "male": [8.0, "y"], "total": [5.6, "y"]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Papua New Guinea", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": [2.1, ""], "married_by_18": [21.3, ""]}}
+{"country": "Paraguay", "child_labor": {"famale": [12.2, "x"], "male": [16.8, "x"], "total": [14.6, "x"]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": [17.9, "x"]}}
+{"country": "Peru", "child_labor": {"famale": [36.3, "y"], "male": [30.6, "y"], "total": [33.5, "y"]}, "child_marriage": {"married_by_15": [2.5, ""], "married_by_18": [19.1, ""]}}
+{"country": "Philippines", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", "  "], "total": ["\u2013", "  "]}, "child_marriage": {"married_by_15": [2.1, ""], "married_by_18": [14.2, ""]}}
+{"country": "Poland", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Portugal", "child_labor": {"famale": [2.5, "x,y"], "male": [4.2, "x,y"], "total": [3.4, "x,y"]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Qatar", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Republic of Korea", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Republic of Moldova", "child_labor": {"famale": [12.3, "  "], "male": [20.2, "  "], "total": [16.3, "  "]}, "child_marriage": {"married_by_15": [0.5, ""], "married_by_18": [18.9, ""]}}
+{"country": "Romania", "child_labor": {"famale": [0.7, "x"], "male": [1.2, "x"], "total": [0.9, "x"]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Russian Federation", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Rwanda", "child_labor": {"famale": [30.4, "  "], "male": [26.7, "  "], "total": [28.5, "  "]}, "child_marriage": {"married_by_15": [0.8, ""], "married_by_18": [8.1, ""]}}
+{"country": "Saint Kitts and Nevis", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Saint Lucia", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Saint Vincent and the Grenadines", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Samoa", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "San Marino", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Sao Tome and Principe", "child_labor": {"famale": [7.2, "  "], "male": [7.7, "  "], "total": [7.5, "  "]}, "child_marriage": {"married_by_15": [5.0, ""], "married_by_18": [34.4, ""]}}
+{"country": "Saudi Arabia", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Senegal", "child_labor": {"famale": [15.6, ""], "male": [17.5, ""], "total": [16.5, ""]}, "child_marriage": {"married_by_15": [12.0, ""], "married_by_18": [32.9, ""]}}
+{"country": "Serbia", "child_labor": {"famale": [4.4, "  "], "male": [4.5, "  "], "total": [4.4, "  "]}, "child_marriage": {"married_by_15": [0.9, ""], "married_by_18": [5.0, ""]}}
+{"country": "Seychelles", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Sierra Leone", "child_labor": {"famale": [25.0, "  "], "male": [27.0, "  "], "total": [26.0, "  "]}, "child_marriage": {"married_by_15": [17.7, ""], "married_by_18": [43.7, ""]}}
+{"country": "Singapore", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Slovakia", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Slovenia", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Solomon Islands", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": [3.1, ""], "married_by_18": [22.4, ""]}}
+{"country": "Somalia", "child_labor": {"famale": [53.6, "  "], "male": [44.5, "  "], "total": [49.0, "  "]}, "child_marriage": {"married_by_15": [8.4, ""], "married_by_18": [45.3, ""]}}
+{"country": "South Africa", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": [0.8, "x"], "married_by_18": [5.6, "x"]}}
+{"country": "South Sudan", "child_labor": {"famale": ["\u2013", ""], "male": ["\u2013", ""], "total": ["\u2013", ""]}, "child_marriage": {"married_by_15": [8.9, ""], "married_by_18": [51.5, ""]}}
+{"country": "Spain", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Sri Lanka", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", "  "], "total": ["\u2013", "  "]}, "child_marriage": {"married_by_15": [1.7, ""], "married_by_18": [11.8, ""]}}
+{"country": "State of Palestine", "child_labor": {"famale": [4.0, "  "], "male": [7.4, " "], "total": [5.7, " "]}, "child_marriage": {"married_by_15": [2.2, ""], "married_by_18": [20.6, ""]}}
+{"country": "Sudan", "child_labor": {"famale": ["\u2013", ""], "male": ["\u2013", ""], "total": ["\u2013", ""]}, "child_marriage": {"married_by_15": [7.2, ""], "married_by_18": [32.9, ""]}}
+{"country": "Suriname", "child_labor": {"famale": [4.1, "  "], "male": [4.1, "  "], "total": [4.1, "  "]}, "child_marriage": {"married_by_15": [5.2, ""], "married_by_18": [18.8, ""]}}
+{"country": "Swaziland", "child_labor": {"famale": [6.9, "  "], "male": [7.7, "  "], "total": [7.3, "  "]}, "child_marriage": {"married_by_15": [0.7, ""], "married_by_18": [6.5, ""]}}
+{"country": "Sweden", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Switzerland", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Syrian Arab Republic", "child_labor": {"famale": [3.0, "  "], "male": [5.0, "  "], "total": [4.0, "  "]}, "child_marriage": {"married_by_15": [2.5, ""], "married_by_18": [13.3, ""]}}
+{"country": "Tajikistan", "child_labor": {"famale": [10.6, "  "], "male": [9.4, "  "], "total": [10.0, "  "]}, "child_marriage": {"married_by_15": [1.0, ""], "married_by_18": [12.7, ""]}}
+{"country": "Thailand", "child_labor": {"famale": [8.2, "  "], "male": [8.3, "  "], "total": [8.3, "  "]}, "child_marriage": {"married_by_15": [2.8, ""], "married_by_18": [19.6, ""]}}
+{"country": "The former Yugoslav Republic of Macedonia", "child_labor": {"famale": [13.0, "  "], "male": [12.1, "  "], "total": [12.5, "  "]}, "child_marriage": {"married_by_15": [0.9, ""], "married_by_18": [6.9, ""]}}
+{"country": "Timor-Leste", "child_labor": {"famale": [4.4, "x"], "male": [4.1, "x"], "total": [4.2, "x"]}, "child_marriage": {"married_by_15": [3.0, ""], "married_by_18": [18.9, ""]}}
+{"country": "Togo", "child_labor": {"famale": [28.9, "  "], "male": [27.7, "  "], "total": [28.3, "  "]}, "child_marriage": {"married_by_15": [5.8, ""], "married_by_18": [25.2, ""]}}
+{"country": "Tonga", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Trinidad and Tobago", "child_labor": {"famale": [0.6, "  "], "male": [0.7, "  "], "total": [0.7, "  "]}, "child_marriage": {"married_by_15": [1.8, ""], "married_by_18": [8.1, ""]}}
+{"country": "Tunisia", "child_labor": {"famale": [1.6, "  "], "male": [2.6, " "], "total": [2.1, " "]}, "child_marriage": {"married_by_15": [0.0, ""], "married_by_18": [1.6, ""]}}
+{"country": "Turkey", "child_labor": {"famale": [1.8, "y"], "male": [3.3, "y"], "total": [2.6, "y"]}, "child_marriage": {"married_by_15": [2.5, ""], "married_by_18": [14.0, ""]}}
+{"country": "Turkmenistan", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": [0.6, ""], "married_by_18": [7.3, ""]}}
+{"country": "Tuvalu", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": [0.0, ""], "married_by_18": [9.9, ""]}}
+{"country": "Uganda", "child_labor": {"famale": [23.7, "y"], "male": [26.9, "y"], "total": [25.4, "y"]}, "child_marriage": {"married_by_15": [9.9, ""], "married_by_18": [39.7, ""]}}
+{"country": "Ukraine", "child_labor": {"famale": [6.7, "  "], "male": [7.9, "  "], "total": [7.3, "  "]}, "child_marriage": {"married_by_15": [0.2, ""], "married_by_18": [9.9, ""]}}
+{"country": "United Arab Emirates", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "United Kingdom", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "United Republic of Tanzania", "child_labor": {"famale": [18.8, "y"], "male": [23.3, "y"], "total": [21.1, "y"]}, "child_marriage": {"married_by_15": [6.6, ""], "married_by_18": [36.9, ""]}}
+{"country": "United States", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Uruguay", "child_labor": {"famale": [7.5, "y"], "male": [8.3, "y"], "total": [7.9, "y"]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Uzbekistan", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": [0.3, ""], "married_by_18": [7.2, ""]}}
+{"country": "Vanuatu", "child_labor": {"famale": ["\u2013", "  "], "male": ["\u2013", " "], "total": ["\u2013", " "]}, "child_marriage": {"married_by_15": [8.8, ""], "married_by_18": [27.1, ""]}}
+{"country": "Venezuela (Bolivarian Republic of)", "child_labor": {"famale": [6.2, "x"], "male": [9.2, "x"], "total": [7.7, "x"]}, "child_marriage": {"married_by_15": ["\u2013", ""], "married_by_18": ["\u2013", ""]}}
+{"country": "Viet Nam", "child_labor": {"famale": [7.4, "  "], "male": [6.5, "  "], "total": [6.9, "  "]}, "child_marriage": {"married_by_15": [0.5, ""], "married_by_18": [9.3, ""]}}
+{"country": "Yemen", "child_labor": {"famale": [24.4, "  "], "male": [21.1, "  "], "total": [22.7, "  "]}, "child_marriage": {"married_by_15": [12.0, ""], "married_by_18": [32.3, ""]}}
+{"country": "Zambia", "child_labor": {"famale": [39.5, "y"], "male": [41.6, "y"], "total": [40.6, "y"]}, "child_marriage": {"married_by_15": [8.5, ""], "married_by_18": [41.6, ""]}}
+{"country": "Zimbabwe", "child_labor": {"famale": ["\u2013", ""], "male": ["\u2013", ""], "total": ["\u2013", ""]}, "child_marriage": {"married_by_15": [3.9, ""], "married_by_18": [30.5, ""]}}
+{"country": "", "child_labor": {"famale": ["", ""], "male": ["", ""], "total": ["", ""]}, "child_marriage": {"married_by_15": ["", ""], "married_by_18": ["", ""]}}
+{"country": "SUMMARY INDICATORS#", "child_labor": {"famale": ["", ""], "male": ["", ""], "total": ["", ""]}, "child_marriage": {"married_by_15": ["", ""], "married_by_18": ["", ""]}}
+{"country": "Sub-Saharan Africa", "child_labor": {"famale": [26.36826159965199, ""], "male": [27.302792951464937, ""], "total": [26.873245900946774, ""]}, "child_marriage": {"married_by_15": [12.766809100623894, ""], "married_by_18": [39.05232099933939, ""]}}
+{"country": "Eastern and Southern Africa", "child_labor": {"famale": [25.32176803858022, ""], "male": [28.358445002499177, ""], "total": [26.898832301009328, ""]}, "child_marriage": {"married_by_15": [10.209229606936761, ""], "married_by_18": [37.58036225115503, ""]}}
+{"country": "West and Central Africa", "child_labor": {"famale": [27.134745409808893, ""], "male": [26.0, ""], "total": [26.0, ""]}, "child_marriage": {"married_by_15": [15.506681004273318, ""], "married_by_18": [40.952411858475095, ""]}}
+{"country": "Middle East and North Africa", "child_labor": {"famale": [7.16708401469709, ""], "male": [10.60497690621085, ""], "total": [8.92672739108793, ""]}, "child_marriage": {"married_by_15": [3.33677878815716, ""], "married_by_18": [17.5162671993684, ""]}}
+{"country": "South Asia", "child_labor": {"famale": [12.006654356230534, ""], "male": [12.635230707275712, ""], "total": [12.375373484359333, ""]}, "child_marriage": {"married_by_15": [17.525606188244307, ""], "married_by_18": [45.70410275811975, ""]}}
+{"country": "East Asia and Pacific", "child_labor": {"famale": [7.728849695560034, "**"], "male": [8.847765255453274, "**"], "total": [8.309487331922833, "**"]}, "child_marriage": {"married_by_15": [2.0, "**"], "married_by_18": [16.0, "**"]}}
+{"country": "Latin America and Caribbean", "child_labor": {"famale": [9.249237252383654, ""], "male": [13.328239839121807, ""], "total": [11.339877745215752, ""]}, "child_marriage": {"married_by_15": [7.384282048923693, ""], "married_by_18": [28.87038271198426, ""]}}
+{"country": "CEE/CIS", "child_labor": {"famale": [3.958733466194118, ""], "male": [5.349219072242559, ""], "total": [4.688698830691471, ""]}, "child_marriage": {"married_by_15": [1.0493101359463624, ""], "married_by_18": [10.314530477051314, ""]}}
+{"country": "Least developed countries", "child_labor": {"famale": [22.239876936625272, ""], "male": [24.669001584533973, ""], "total": [23.488248150296613, ""]}, "child_marriage": {"married_by_15": [15.228843776347825, ""], "married_by_18": [45.31198576583569, ""]}}
+{"country": "World", "child_labor": {"famale": [14.187934151307143, "**"], "male": [15.675305370157282, "**"], "total": [14.97556129305665, "**"]}, "child_marriage": {"married_by_15": [11.396381672145917, "**"], "married_by_18": [34.40559250186234, "**"]}}
